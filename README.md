@@ -1,10 +1,11 @@
-Jonas Bakery - Android App
+<h1 align="left">Jonas Bakery - Android App.</h1>
+
 
 Jonas Bakery is an Android application developed using Android Studio with Java as the primary programming language. The app utilizes Firebase for data storage and image handling, making it a seamless and efficient bakery management solution.
 
-Features
+<h2>Features</h2>
 
-Home Screen – Displays bakery products with images and descriptions.
+<b>Home Screen</b> – Displays bakery products with images and descriptions.
 
 Add to Cart – Users can add items to their cart for easy ordering.
 
