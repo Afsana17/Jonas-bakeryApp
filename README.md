@@ -7,19 +7,19 @@ Jonas Bakery is an Android application developed using Android Studio with Java 
 
 <b>Home Screen</b> – Displays bakery products with images and descriptions.
 
-Add to Cart – Users can add items to their cart for easy ordering.
+<b>Add to Cart</b> – Users can add items to their cart for easy ordering.
 
-Order Management – Tracks customer orders efficiently.
+<b>Order Management</b> – Tracks customer orders efficiently.
 
-Thank You Screen – Displays order confirmation after checkout.
+<b>Thank You Screen</b> – Displays order confirmation after checkout.
 
-Firebase Integration – Stores product details, user data, and images.
+<b>Firebase Integration</b> – Stores product details, user data, and images.
 
-Technologies Used
+<h2>Technologies Used</h2>
 
-Android Studio
+<b>Android Studio</b>
 
-Java (Backend & UI logic)
+<b>Java (Backend & UI logic)</b>
 
-Firebase (Database & Image Storage)
+<b>Firebase (Database & Image Storage)</b>
 
